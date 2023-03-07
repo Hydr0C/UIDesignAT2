@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: aa1d4b1576708444092d1e2c89e2869d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3560158749687818676
+    second: RoboFrames_0
+  - first:
+      213: 1107316155536023931
+    second: RoboFrames_1
+  - first:
+      213: 4145336276129619214
+    second: RoboFrames_2
+  - first:
+      213: 3336238493073680911
+    second: RoboFrames_3
+  - first:
+      213: 4141965391503063311
+    second: RoboFrames_4
+  - first:
+      213: 6557183955086954366
+    second: RoboFrames_5
+  - first:
+      213: 2595168661005513680
+    second: RoboFrames_6
+  - first:
+      213: 2674353466559792591
+    second: RoboFrames_7
+  - first:
+      213: -7531396915879977806
+    second: RoboFrames_8
+  - first:
+      213: -4552088218110020818
+    second: RoboFrames_9
+  - first:
+      213: 627314339038765032
+    second: RoboFrames_10
+  - first:
+      213: -6431424368178030032
+    second: RoboFrames_11
+  - first:
+      213: -3624990780557167895
+    second: RoboFrames_12
+  - first:
+      213: 3340851569248442486
+    second: RoboFrames_13
+  - first:
+      213: -4501021062147602356
+    second: RoboFrames_14
+  - first:
+      213: -6144150791497000458
+    second: RoboFrames_15
+  - first:
+      213: 2315589194942668357
+    second: RoboFrames_16
+  - first:
+      213: 8803959732416430657
+    second: RoboFrames_17
+  - first:
+      213: -4693603115355723983
+    second: RoboFrames_18
+  - first:
+      213: -1321394896703165244
+    second: RoboFrames_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoboFrames_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2042
+        width: 403
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46dbdcca76c79ec0800000000000000
+      internalID: -3560158749687818676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2044
+        width: 410
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a6c83d2afd5f00800000000000000
+      internalID: 1107316155536023931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_2
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2042
+        width: 414
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1f355161378930800000000000000
+      internalID: 4145336276129619214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_3
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2044
+        width: 412
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a24a9bb33bc4e20800000000000000
+      internalID: 3336238493073680911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_4
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2042
+        width: 420
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09708814973b7930800000000000000
+      internalID: 4141965391503063311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_5
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2044
+        width: 412
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f49d1d01ccffa50800000000000000
+      internalID: 6557183955086954366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1386
+        width: 420
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b57bb524e30420800000000000000
+      internalID: 2595168661005513680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_7
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1386
+        width: 423
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5812afe463d1520800000000000000
+      internalID: 2674353466559792591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_8
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1385
+        width: 423
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5086786a1b7790800000000000000
+      internalID: -7531396915879977806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_9
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1384
+        width: 423
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23bf4532ebb3d0c0800000000000000
+      internalID: -4552088218110020818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1388
+        width: 421
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1ae4511ba4b800800000000000000
+      internalID: 627314339038765032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_11
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1381
+        width: 424
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a15febc9dfeb6a0800000000000000
+      internalID: -6431424368178030032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 728
+        width: 417
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f2d2571271bdc0800000000000000
+      internalID: -3624990780557167895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_13
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 723
+        width: 412
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6781c583dc61d5e20800000000000000
+      internalID: 3340851569248442486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_14
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 719
+        width: 408
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48042001392981c0800000000000000
+      internalID: -4501021062147602356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_15
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 723
+        width: 404
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d26288679bbaa0800000000000000
+      internalID: -6144150791497000458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_16
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 723
+        width: 401
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e5a42ba10a22020800000000000000
+      internalID: 2315589194942668357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_17
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 727
+        width: 395
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14246833bb2fd2a70800000000000000
+      internalID: 8803959732416430657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 69
+        width: 399
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372e8895d8fcdeb0800000000000000
+      internalID: -4693603115355723983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboFrames_19
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 67
+        width: 401
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6efda75679ade0800000000000000
+      internalID: -1321394896703165244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 15357730a3b7af94d874b362ea8e3814
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
